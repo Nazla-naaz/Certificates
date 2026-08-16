@@ -18,3 +18,5 @@ Data Analyst portfolio with Power BI, SQL, Excel, and Python projects
 
 - **Job Bano Ready** - [View Certificate](./Bano%20Job%20Ready.pdf)  
   Career readiness program covering resume building, interview skills, and workplace communication.
+- **IBM SkillsBuild - Data Visualization and Communication** - [View Certificate](./IBM-SkillsBuild-DataVisualization-Certificate.png)
+  Completed IBM SkillsBuild course on data visualization principles, storytelling with data, and communicating insights. Duration: 4 hours. Date: Aug 16, 2026.
