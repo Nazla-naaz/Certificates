@@ -29,6 +29,9 @@ Completed IBM SkillsBuild course on data visualization principles, storytelling 
 **7. Claude 101 - Anthropic** - [View Certificate](./certificate-Claude-101.pdf)  
 Completed Claude AI fundamentals, prompt engineering and AI productivity workflows.
 
+8. AI Engineer - View Certificate
+Completed AI Engineer certification covering AI fundamentals, machine learning workflows and AI engineering concepts.
+
 ---
 
 ### 📫 Connect With Me
