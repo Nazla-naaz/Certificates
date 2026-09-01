@@ -35,6 +35,8 @@ Completed AI Engineer certification covering AI fundamentals, ML workflows and A
 **9. Data Engineering on AWS - Foundations** - [View Certificate](./AWS-Data-Engineering-Foundations.pdf)  
 AWS + NASSCOM FutureSkills Prime - Completed 100% Learning Path covering AWS Glue, S3, Redshift, Data Lakes & Data Pipelines.
 
+**10. AI Frameworks for Developers - NASSCOM FutureSkills Prime (Govt of India)** - [View Certificate](./AI-Frameworks-for-Developers.pdf)  
+Earned Govt of India + NASSCOM certification under Digital Fluency program. Skills: TensorFlow, PyTorch, Keras, Scikit-learn & MLlib. Completed Aug 2026.
 
 ---
 
