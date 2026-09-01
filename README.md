@@ -32,6 +32,10 @@ Completed Claude AI fundamentals, prompt engineering and AI productivity workflo
 **8. AI Engineer** - [View Certificate](./AI%20Engineer-Certificate.pdf)  
 Completed AI Engineer certification covering AI fundamentals, ML workflows and AI engineering concepts.
 
+**9. Data Engineering on AWS - Foundations** - [View Certificate](./AWS-Data-Engineering-Foundations.pdf)  
+AWS + NASSCOM FutureSkills Prime - Completed 100% Learning Path covering AWS Glue, S3, Redshift, Data Lakes & Data Pipelines.
+
+
 ---
 
 ### 📫 Connect With Me
