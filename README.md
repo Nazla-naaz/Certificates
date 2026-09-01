@@ -38,6 +38,9 @@ AWS + NASSCOM FutureSkills Prime - Completed 100% Learning Path covering AWS Glu
 **10. AI Frameworks for Developers - NASSCOM FutureSkills Prime (Govt of India)** - [View Certificate](./AI-Frameworks-for-Developers.pdf)  
 Earned Govt of India + NASSCOM certification under Digital Fluency program. Skills: TensorFlow, PyTorch, Keras, Scikit-learn & MLlib. Completed Aug 2026.
 
+**11. Google Analytics Certification (2026) - Google** - [View Certificate](https://skillshop.credential.net/192852264)  
+Issued Aug 2026 - Expires Aug 2027 | Credential ID: 192852264. Earned official Google Analytics Certification from Google Skillshop. Skills: Google Analytics, Google Ads, Data Analysis, Reporting.
+
 ---
 
 ### 📫 Connect With Me
